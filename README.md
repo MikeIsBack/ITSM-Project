@@ -1,5 +1,7 @@
 # ITSM Decommissioning Project for NDB
 
+**A project for the IT Service Management course - MSc Computer Science - University of Padova.**
+
 ## Overview
 
 This repository contains the documentation and plans for the IT Service Management (ITSM) decommissioning project for the New Development Bank (NDB). The project focuses on retiring the Home Connectivity and USB Connectivity services while transitioning to a new Token Connectivity service.
